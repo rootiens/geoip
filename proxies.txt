@@ -1,0 +1,5 @@
+ 0:08 0% (2h54m left); send: 2854049 379 Kp/s (354 Kp/s avg); recv: 7887 976 p/s (978 p/s avg); drops: 0 p/s (0 p/s avg); hitrate: 0.28%
+
+New Proxy 110.238.55.112:8080 Country:  Yemen ISP: Public Telecommunication Corporation
+
+Imported [8525] IPs Checked [6902] IPs (Success: 1, StatusCodeErr: 0, ProxyErr: 6901, Timeout: 2) with 1623 open http threads
